@@ -1,5 +1,11 @@
-[{
-    "user": "erick"
-    
-    
-}]
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "hello"
+      }
+    ],
+    "user": {
+      "name": "erick"
+    }
+  }
